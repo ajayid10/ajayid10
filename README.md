@@ -22,7 +22,7 @@ building real-world projects, and continuously improving my technical skills.
 <a href="https://www.linkedin.com/in/ajayikolawoledaniel">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://twitter.com/yourusername">
+<a href="https://twitter.com/ajayid10">
 <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 </p>
