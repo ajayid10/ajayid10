@@ -1,7 +1,7 @@
-cat << 'TEMPLATE' > README.md
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+
+<h1 align="center">Hi 👋, I'm AJAYI KOLAOWLE DANIEL </h1>
 <p align="center">
-<strong>Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
+<strong>Aspiring Cloud Engineer •  DevOps Enthusiast</strong>
 </p>
 <p align="center">
 Welcome to my GitHub profile! I'm passionate about learning new technologies,
@@ -79,6 +79,7 @@ A collection of practical Linux administration exercises including file manageme
 - ✅ Configure Secure Access to Workloads Using Azure Networking
 - ✅ Microsoft Power Up Program – Pathfinder (Copilot Studio)
 ---
+
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayid10&show_icons=true&theme=default"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayid10&layout=compact&theme=default"/>
@@ -102,4 +103,4 @@ A collection of practical Linux administration exercises including file manageme
 <p align="center">
 ⭐ Thank you for visiting my profile! ⭐
 </p>
-TEMPLATE
+
