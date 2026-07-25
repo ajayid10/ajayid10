@@ -64,8 +64,7 @@ A collection of practical Linux administration exercises including file manageme
 | Microsoft Applied Skills: Get Started with Cloud Security and Monitoring Tasks | Microsoft | Completed |
 | Microsoft Applied Skills: Get Started with Azure Management Tasks | Microsoft | Completed |
 | Microsoft Applied Skills: Configure Secure Access to Workloads Using Azure Networking | Microsoft | Completed |
-| Microsoft Power Up Program – Pathfinder (Copilot Studio) | Microsoft | Completed |
----
+
 ## 🏅 Microsoft Applied Skills
 
 - ✅ Implement Security Through a Pipeline Using Azure DevOps
