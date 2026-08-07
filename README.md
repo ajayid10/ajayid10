@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies,
 building real-world projects, and continuously improving my technical skills.
 </p>
 ---
-- 🔭 I'm currently working on **cloud & Devop Project**
-- 🌱 I'm currently learning **Azure, Github Action Kubernetes Terraform, linus and CI/CD**
-- 🤝 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Azure, Cloud, Linux, or DevOps**
-- 🎯 My goal is to become a **Cloud & DevOps Engineer**
-- 📫 Reach me at **Ajayid10@gmail.com**
+- 🔭 I'm currently working on cloud & Devop Project
+- 🌱 I'm currently learning Azure, Github Action Kubernetes Terraform, linus and CI/CD
+- 🤝 I'm looking to collaborate on Open Source Projects
+- 💬 Ask me about Azure, Cloud, Linux, or DevOps
+- 🎯 My goal is to become a Cloud & DevOps Engineer
+- 📫 Reach me at Ajayid10@gmail.com
 ---
 <p align="center">
 <a href="https://github.com/ajayid10">
