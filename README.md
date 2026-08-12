@@ -4,7 +4,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/cloud-devops-banner.png" alt="Cloud DevOps Banner" width="100%">
+  <img src="./cloud-devops-banner.png" alt="Cloud DevOps Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajayi Kolaowle Daniel</h1>
