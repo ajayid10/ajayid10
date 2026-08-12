@@ -1,11 +1,10 @@
-```markdown
 <!-- ========================================================= -->
-<!--                    AJAYI KOLAOWLE DANIEL                  -->
-<!--                    GitHub Profile README                  -->
+<!--                 AJAYI KOLAOWLE DANIEL                     -->
+<!--                    GitHub Profile                         -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/cloud-devops-banner.png" alt="Cloud DevOps Banner" width="100%"/>
+  <img src="assets/cloud-devops-banner.png" alt="Cloud DevOps Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajayi Kolaowle Daniel</h1>
@@ -26,13 +25,15 @@
 
 <p align="center">
   <a href="https://github.com/ajayid10">
-    <img src="https://img.shields.io/badge/GitHub-ajayid10-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-ajayid10-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
+
   <a href="https://www.linkedin.com/in/ajayikolawoledaniel">
-    <img src="https://img.shields.io/badge/LinkedIn-Ajayi%20Kolaowle%20Daniel-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
+
   <a href="mailto:Ajayid10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Ajayid10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -57,11 +58,13 @@ I enjoy turning ideas into practical projects while learning how to build, deplo
 ## ☁️ Cloud & DevOps Focus
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,linux,githubactions,git,github" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,linux,githubactions,git,github" alt="Cloud and DevOps Skills">
 </p>
 
 <p align="center">
-  <strong>Cloud Infrastructure • CI/CD • Infrastructure as Code • Containers • Kubernetes • Linux • Automation</strong>
+  <strong>
+    Cloud Infrastructure • CI/CD • Infrastructure as Code • Containers • Kubernetes • Linux • Automation
+  </strong>
 </p>
 
 ---
@@ -71,19 +74,19 @@ I enjoy turning ideas into practical projects while learning how to build, deplo
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions" alt="Cloud and DevOps">
 </p>
 
 ### 💻 Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css" alt="Programming Skills">
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Development Tools">
 </p>
 
 ---
@@ -102,14 +105,15 @@ The project demonstrates:
 - Web development fundamentals
 - Digital technology concepts
 
-**Repository:**  
-👉 https://github.com/ajayid10/Digitalskills
+**Repository:**
+
+👉 [Digital Skills](https://github.com/ajayid10/Digitalskills)
 
 ---
 
 ### ☁️ Azure DevOps Lab
 
-A hands-on Cloud and DevOps learning project covering practical technologies and concepts including:
+A hands-on Cloud and DevOps learning project covering:
 
 - Microsoft Azure
 - Linux administration
@@ -122,8 +126,7 @@ A hands-on Cloud and DevOps learning project covering practical technologies and
 - Kubernetes
 - Cloud infrastructure
 
-**Repository:**  
-🚧 Coming Soon
+**Repository:** 🚧 Coming Soon
 
 ---
 
@@ -142,8 +145,7 @@ A practical Linux administration project covering:
 - Package management
 - System troubleshooting
 
-**Repository:**  
-🚧 Coming Soon
+**Repository:** 🚧 Coming Soon
 
 ---
 
@@ -186,7 +188,7 @@ I have completed the following Microsoft Applied Skills credentials:
   <img
     src="https://github-readme-stats.vercel.app/api?username=ajayid10&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
-    alt="Ajayi's GitHub Stats"
+    alt="Ajayi's GitHub Statistics"
   />
 
   <img
@@ -214,15 +216,13 @@ I have completed the following Microsoft Applied Skills credentials:
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=ajayid10&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
 ---
 
-## 🎯 My Cloud & DevOps Roadmap
-
-### Current Goals
+## 🎯 Cloud & DevOps Roadmap
 
 - 🚀 Build 10+ real-world Cloud & DevOps projects
 - ☁️ Deepen my Microsoft Azure skills
@@ -242,29 +242,20 @@ I have completed the following Microsoft Applied Skills credentials:
 
 I'm always open to learning, collaborating, and connecting with people interested in:
 
-- Cloud Computing
-- DevOps
-- Azure
-- AWS
-- Kubernetes
-- Terraform
-- Linux
-- Docker
-- CI/CD
-- Open Source
+**Cloud Computing • DevOps • Azure • AWS • Kubernetes • Terraform • Linux • Docker • CI/CD • Open Source**
 
 <p align="center">
 
 <a href="https://github.com/ajayid10">
-  <img src="https://img.shields.io/badge/GitHub-ajayid10-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-ajayid10-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/ajayikolawoledaniel">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 <a href="mailto:Ajayid10@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </p>
@@ -278,4 +269,3 @@ I'm always open to learning, collaborating, and connecting with people intereste
 <p align="center">
   <em>Build. Automate. Deploy. Learn. Repeat. 🚀</em>
 </p>
-```
