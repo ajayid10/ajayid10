@@ -1,71 +1,171 @@
+```markdown
+<!-- ========================================================= -->
+<!--                    AJAYI KOLAOWLE DANIEL                  -->
+<!--                    GitHub Profile README                  -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm AJAYI KOLAOWLE DANIEL </h1>
 <p align="center">
-<strong>Aspiring Cloud Engineer •  DevOps Enthusiast</strong>
+  <img src="assets/cloud-devops-banner.png" alt="Cloud DevOps Banner" width="100%"/>
 </p>
+
+<h1 align="center">Hi 👋, I'm Ajayi Kolaowle Daniel</h1>
+
 <p align="center">
-Welcome to my GitHub profile! I'm passionate about learning new technologies,
-building real-world projects, and continuously improving my technical skills.
+  <strong>Aspiring Cloud Engineer • DevOps Enthusiast</strong>
 </p>
----
-- 🔭 I'm currently working on cloud & Devop Project
-- 🌱 I'm currently learning Azure, Github Action Kubernetes Terraform, linus and CI/CD
-- 🤝 I'm looking to collaborate on Open Source Projects
-- 💬 Ask me about Azure, Cloud, Linux, or DevOps
-- 🎯 My goal is to become a Cloud & DevOps Engineer
-- 📫 Reach me at Ajayid10@gmail.com
----
+
 <p align="center">
-<a href="https://github.com/ajayid10">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-<a href="https://www.linkedin.com/in/ajayikolawoledaniel">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="https://twitter.com/ajayid10">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
+  <em>Building • Automating • Deploying • Learning</em>
 </p>
----
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws" />
+  Welcome to my GitHub profile! I'm passionate about cloud technologies,
+  DevOps practices, automation, and building real-world projects.
+  I enjoy learning new technologies and continuously improving my technical skills.
 </p>
+
+<p align="center">
+  <a href="https://github.com/ajayid10">
+    <img src="https://img.shields.io/badge/GitHub-ajayid10-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ajayikolawoledaniel">
+    <img src="https://img.shields.io/badge/LinkedIn-Ajayi%20Kolaowle%20Daniel-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Ajayid10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Ajayid10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 ---
+
+## 👨‍💻 About Me
+
+I'm an **Aspiring Cloud Engineer and DevOps Enthusiast** focused on developing practical skills in cloud infrastructure, automation, containerization, CI/CD, Linux administration, and Infrastructure as Code.
+
+I enjoy turning ideas into practical projects while learning how to build, deploy, automate, monitor, and maintain reliable applications and cloud environments.
+
+- 🔭 Currently working on **Cloud & DevOps projects**
+- 🌱 Currently learning **Microsoft Azure, GitHub Actions, Kubernetes, Terraform, Linux, Docker and CI/CD**
+- 🤝 Looking to collaborate on **Open Source and Cloud/DevOps projects**
+- 💬 Ask me about **Azure, Cloud, Linux, Docker, Git, CI/CD or DevOps**
+- 🎯 Goal: Become a **Cloud & DevOps Engineer**
+- 📫 Email: **Ajayid10@gmail.com**
+- 📍 Based in **Lagos, Nigeria**
+
+---
+
+## ☁️ Cloud & DevOps Focus
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,linux,githubactions,git,github" />
+</p>
+
+<p align="center">
+  <strong>Cloud Infrastructure • CI/CD • Infrastructure as Code • Containers • Kubernetes • Linux • Automation</strong>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions" />
+</p>
+
+### 💻 Programming & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-### Digital Skills
+### 📚 Digital Skills
 
-A modern web application showcasing digital skills, cloud computing, and DevOps concepts. The project demonstrates responsive web development, Git version control, and GitHub collaboration.
+A modern web application showcasing digital skills, cloud computing, and DevOps concepts.
 
-**Repository:** https://github.com/ajayid10/Digitalskills
+The project demonstrates:
+
+- Responsive web development
+- Git version control
+- GitHub collaboration
+- Web development fundamentals
+- Digital technology concepts
+
+**Repository:**  
+👉 https://github.com/ajayid10/Digitalskills
+
 ---
-### Azure DevOps Lab
 
-Hands-on Azure and DevOps practice project covering Linux administration, Git, GitHub Actions, Infrastructure as Code with Terraform, Docker, Kubernetes, and CI/CD pipelines.
-------
-**Repository:** *(Coming Soon)*
-### Linux System Administration Lab
+### ☁️ Azure DevOps Lab
 
-A collection of practical Linux administration exercises including file management, shell scripting, user management, permissions, networking, and troubleshooting.
+A hands-on Cloud and DevOps learning project covering practical technologies and concepts including:
 
-**Repository:** *(Coming Soon)*
+- Microsoft Azure
+- Linux administration
+- Git & GitHub
+- GitHub Actions
+- CI/CD pipelines
+- Terraform
+- Infrastructure as Code
+- Docker
+- Kubernetes
+- Cloud infrastructure
+
+**Repository:**  
+🚧 Coming Soon
+
 ---
-> Add your completed certifications below as you earn them.
-## 🏆 Certifications
+
+### 🐧 Linux System Administration Lab
+
+A practical Linux administration project covering:
+
+- Linux file management
+- Users and groups
+- File permissions
+- Shell commands
+- Shell scripting
+- Process management
+- Networking
+- SSH
+- Package management
+- System troubleshooting
+
+**Repository:**  
+🚧 Coming Soon
+
+---
+
+## 🏆 Microsoft Applied Skills
+
+I have completed the following Microsoft Applied Skills credentials:
 
 | Certification | Organization | Status |
-|---------------|--------------|--------|
-| Microsoft Applied Skills: Implement Security Through a Pipeline Using Azure DevOps | Microsoft | Completed |
-| Microsoft Applied Skills: Deploy Cloud-Native Apps Using Azure Container Apps | Microsoft | Completed |
-| Microsoft Applied Skills: Administer Active Directory Domain Services | Microsoft | Completed |
-| Microsoft Applied Skills: Get Started with Identities and Access Using Microsoft Entra | Microsoft | Completed |
-| Microsoft Applied Skills: Deploy and Configure Azure Monitor | Microsoft | Completed |
-| Microsoft Applied Skills: Secure Storage for Azure Files and Azure Blob Storage | Microsoft | Completed |
-| Microsoft Applied Skills: Get Started with Cloud Security and Monitoring Tasks | Microsoft | Completed |
-| Microsoft Applied Skills: Get Started with Azure Management Tasks | Microsoft | Completed |
-| Microsoft Applied Skills: Configure Secure Access to Workloads Using Azure Networking | Microsoft | Completed |
+|---|---|---|
+| Implement Security Through a Pipeline Using Azure DevOps | Microsoft | ✅ Completed |
+| Deploy Cloud-Native Apps Using Azure Container Apps | Microsoft | ✅ Completed |
+| Administer Active Directory Domain Services | Microsoft | ✅ Completed |
+| Get Started with Identities and Access Using Microsoft Entra | Microsoft | ✅ Completed |
+| Deploy and Configure Azure Monitor | Microsoft | ✅ Completed |
+| Secure Storage for Azure Files and Azure Blob Storage | Microsoft | ✅ Completed |
+| Get Started with Cloud Security and Monitoring Tasks | Microsoft | ✅ Completed |
+| Get Started with Azure Management Tasks | Microsoft | ✅ Completed |
+| Configure Secure Access to Workloads Using Azure Networking | Microsoft | ✅ Completed |
 
-## 🏅 Microsoft Applied Skills
+---
+
+## 🥇 Microsoft Applied Skills
 
 - ✅ Implement Security Through a Pipeline Using Azure DevOps
 - ✅ Deploy Cloud-Native Apps Using Azure Container Apps
@@ -77,29 +177,105 @@ A collection of practical Linux administration exercises including file manageme
 - ✅ Get Started with Azure Management Tasks
 - ✅ Configure Secure Access to Workloads Using Azure Networking
 - ✅ Microsoft Power Up Program – Pathfinder (Copilot Studio)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ajayid10&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Ajayi's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayid10&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ajayid10&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ajayid10&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+## 🎯 My Cloud & DevOps Roadmap
+
+### Current Goals
+
+- 🚀 Build 10+ real-world Cloud & DevOps projects
+- ☁️ Deepen my Microsoft Azure skills
+- 🔄 Build and improve CI/CD pipelines
+- 🐳 Improve Docker and containerization skills
+- ☸️ Learn and master Kubernetes
+- 🏗️ Improve Infrastructure as Code skills with Terraform
+- 🐧 Strengthen Linux system administration skills
+- 🔐 Improve Cloud Security and Identity Management
+- 🤝 Contribute to Open Source projects
+- 🏆 Earn additional Cloud certifications
+- 💼 Land a Cloud Engineering / DevOps Engineering role
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating, and connecting with people interested in:
+
+- Cloud Computing
+- DevOps
+- Azure
+- AWS
+- Kubernetes
+- Terraform
+- Linux
+- Docker
+- CI/CD
+- Open Source
+
+<p align="center">
+
+<a href="https://github.com/ajayid10">
+  <img src="https://img.shields.io/badge/GitHub-ajayid10-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/ajayikolawoledaniel">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:Ajayid10@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
 ---
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayid10&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayid10&layout=compact&theme=default"/>
-</p>
----
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ajayid10"/>
-</p>
----
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayid10&theme=github-compact"/>
-</p>
----
-- ✅ Build 10 real-world cloud projects
-- ✅ Contribute to Open Source
-- ✅ Earn Cloud Certifications
-- ✅ Learn Kubernetes
-- ✅ Improve Linux Skills
-- ✅ Land a Cloud Engineering Role
----
-<p align="center">
-⭐ Thank you for visiting my profile! ⭐
+  <strong>⭐ Thank you for visiting my profile! ⭐</strong>
 </p>
 
+<p align="center">
+  <em>Build. Automate. Deploy. Learn. Repeat. 🚀</em>
+</p>
+```
