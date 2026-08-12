@@ -186,15 +186,15 @@ I have completed the following Microsoft Applied Skills credentials:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ajayid10&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Ajayi's GitHub Statistics"
+    src="./profile/stats.svg"
+    height="180"
+    alt="Ajayi Kolaowle Daniel GitHub Statistics"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayid10&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Ajayi Kolaowle Daniel Top Languages"
   />
 </p>
 
