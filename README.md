@@ -165,11 +165,9 @@ I have completed the following Microsoft Applied Skills credentials:
 | Get Started with Azure Management Tasks | Microsoft | ✅ Completed |
 | Configure Secure Access to Workloads Using Azure Networking | Microsoft | ✅ Completed |
 
----
 
 
 
----
 
 
 ---
