@@ -182,21 +182,6 @@ I have completed the following Microsoft Applied Skills credentials:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="Ajayi Kolaowle Daniel GitHub Statistics"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Ajayi Kolaowle Daniel Top Languages"
-  />
-</p>
 
 ---
 
