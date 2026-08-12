@@ -167,18 +167,7 @@ I have completed the following Microsoft Applied Skills credentials:
 
 ---
 
-## 🥇 Microsoft Applied Skills
 
-- ✅ Implement Security Through a Pipeline Using Azure DevOps
-- ✅ Deploy Cloud-Native Apps Using Azure Container Apps
-- ✅ Administer Active Directory Domain Services
-- ✅ Get Started with Identities and Access Using Microsoft Entra
-- ✅ Deploy and Configure Azure Monitor
-- ✅ Secure Storage for Azure Files and Azure Blob Storage
-- ✅ Get Started with Cloud Security and Monitoring Tasks
-- ✅ Get Started with Azure Management Tasks
-- ✅ Configure Secure Access to Workloads Using Azure Networking
-- ✅ Microsoft Power Up Program – Pathfinder (Copilot Studio)
 
 ---
 
